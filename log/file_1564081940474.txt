@@ -1,0 +1,14 @@
+YOU :hi khalid
+PERSON: hello
+PERSON: aman
+YOU :ohh yeh bro hw r u?
+PERSON: I am good and u?
+YOU :meee 2
+PERSON: ohh
+PERSON: good
+PERSON: yrr
+YOU :is there any error
+PERSON: how is
+PERSON: ur studis going on?
+YOU :umm good
+PERSON: okk
